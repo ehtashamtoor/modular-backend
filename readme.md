@@ -2,6 +2,8 @@
 
 A general, scalable backend built with Node.js, Express, and MongoDB. This project implements reusable factory methods for CRUD operations, dynamic query handling (filtering, sorting, pagination), custom error handling, security middleware, and both unit and integration tests.
 
+Note: Postman collection file is added in the repository.
+
 ## Table of Contents
 
 - [Features](#features)
